@@ -1,7 +1,23 @@
 # Task-1-Customer-Personality-Analysis
-Aim: Using MS- excel clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats)
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/2545e449-c089-4956-bd35-b3c96767468c" />
-Process: Created account in Kaggle, Downloaded data on customer personality analysis, developed excel file by converting raw data into row and column, inserting serial number, bold effects to heading, data alignment,replaced null with blank in income column, change date format in dd-mm-yyyy format,repalced mnt (money spend on) with blank in wine, fruit, fish, meat and sweet product, coloured heading, wrap up the text, applied filter for keen observation of data														
-<img width="1201" height="107" alt="image" src="https://github.com/user-attachments/assets/b8e1d545-60d4-4907-9197-188eab177658" />
-Observation:  2240 customer were survey for undertanding customer behaviour, but date of birth: 1893,1899 & 1900 are seems to be hypothetical, because at present the most aged person is 116 years British woman Ethel Caterham.
-<img width="81" height="25" alt="image" src="https://github.com/user-attachments/assets/0389c7dc-f64a-4bfb-b037-853273c85200" />
+Aim:
+To clean and prepare a raw dataset in MS Excel, handling null values, duplicates, and inconsistent formats for further analysis.
+
+Process:
+I began by creating a Kaggle account and downloading the dataset on Customer Personality Analysis. Using MS Excel, I:
+
+Converted the raw data into organized rows and columns.
+
+Added a serial number column for reference.
+
+Applied bold formatting and color to headings, ensured data alignment, and wrapped text for better readability.
+
+Replaced null values in the Income column with blanks.
+
+Standardized the date format to DD-MM-YYYY.
+
+Replaced irrelevant “mnt” placeholders (money spent on wine, fruit, fish, meat, and sweets) with blanks for clarity.
+
+Applied filters to enable detailed observation and analysis.
+
+Observation:
+The dataset covered 2,240 surveyed customers to understand purchasing behavior. However, some dates of birth—1893, 1899, and 1900—appear unrealistic. Considering the world’s oldest living person today is 116-year-old British woman Ethel Caterham, these entries are likely hypothetical or erroneous values rather than actual birth years.
